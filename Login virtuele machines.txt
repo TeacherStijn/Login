@@ -1,0 +1,27 @@
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=821 - voor Dayenne Souren
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=822 - voor Erik Albrecht
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=823 - voor Frank Kockelkoren
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=824 - voor Jordi Theunissen
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=825 - voor Judy van Aken
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=826 - voor Kim Rengelink
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=827 - voor Peter Brouwers
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=828 - voor Rianne Hartman
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=829 - voor Sjors van Velzen
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=830 - voor Thomas Kuijer
+- https://labs3.virsoft.net/master-it/pl-900/html5?user=831 - voor Zarrin Shojaie Abbasy
+
+Power Platform accounts:
+- Admin account: admin@M365x09028136.onmicrosoft.com  - voor Dayenne Souren
+- Admin account: admin@M365x94387943.onmicrosoft.com  - voor Erik Albrecht
+- Admin account: admin@M365x73553029.onmicrosoft.com  - voor Frank Kockelkoren
+- Admin account: admin@M365x91701093.onmicrosoft.com  - voor Jordi Theunissen
+- Admin account: admin@M365x87466014.onmicrosoft.com  - voor Judy van Aken
+- Admin account: admin@M365x75932533.onmicrosoft.com  - voor Kim Rengelink
+- Admin account: admin@M365x23525633.onmicrosoft.com  - voor Peter Brouwers
+- Admin account: admin@M365x72656224.onmicrosoft.com  - voor Rianne Hartman
+- Admin account: admin@M365x25287711.onmicrosoft.com  - voor Sjors van Velzen
+- Admin account: admin@M365x79752186.onmicrosoft.com  - voor Thomas Kuijer
+- Admin account: admin@M365x01824075.onmicrosoft.com  - voor Zarrin Shojaie Abbasy
+
+- Password: Pa55w.rd
+	
